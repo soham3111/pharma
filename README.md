@@ -1,5 +1,4 @@
 # Pharma.com
-## This project is another version of PharmEasy with new user infront-end.
 ## Main page:
 ![](project-images/main.png)
 ## Functionality
